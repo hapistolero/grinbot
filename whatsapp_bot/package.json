@@ -1,0 +1,16 @@
+{
+  "name": "grinbot",
+  "version": "1.0.0",
+  "description": "manajemen assets for online store griya nature",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx nodemon index.js"
+  },
+  "author": "hapistolero",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.1",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "https://github.com/Julzk/whatsapp-web.js/tarball/jkr_hotfix_7"
+  }
+}
